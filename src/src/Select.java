@@ -3,7 +3,6 @@ package src;
 public class Select {
 
     public void selectMonth(String choiceLanguage, int choiceMonth){
-        Months month;
         switch (choiceLanguage){
         //if(choiceLanguage == "angielski" || choiceLanguage == "english"){
             case "ENG":
